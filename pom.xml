@@ -74,7 +74,7 @@
     <jsoup.version>1.12.1</jsoup.version>
 
     <!-- Test Dependencies -->
-    <junit.version>4.12</junit.version>
+    <junit.version>4.13.1</junit.version>
     <assertj.version>3.13.2</assertj.version>
     <robolectric.version>3.8</robolectric.version><!-- 4.3 requires com.android.support:support-annotations:jar:28.0.0 -->
   </properties>
